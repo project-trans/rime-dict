@@ -1,4 +1,4 @@
-# 跨儿计划 Rime 词典
+# 跨儿计划 RIME 词典
 
 ## 语料来源
 
@@ -12,11 +12,14 @@
 
 [现代汉语常用词表](https://gist.github.com/indiejoseph/eae09c673460aa0b56db)
 
-## Rime 词典
+## RIME 词典
 
 词典中包含除常用词表外的汉语词汇及词频.
 
 可在 Release 中获取
+
+- [NUR](https://github.com/Cryolitia/nur-packages/blob/master/pkgs/rimePackages/rime-project-trans.nix)
+- [AUR](https://aur.archlinux.org/packages/rime-project-trans-bin)
 
 ## 词云
 
