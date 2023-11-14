@@ -1,0 +1,20 @@
+[submodule "MtF-wiki"]
+	path = MtF-wiki
+	url = https://github.com/project-trans/MtF-wiki
+	branch = master
+[submodule "RLE-wiki"]
+	path = RLE-wiki
+	url = https://github.com/project-trans/RLE-wiki
+	branch = main
+[submodule "FTM-wiki"]
+	path = FTM-wiki
+	url = https://github.com/project-trans/FTM-wiki
+	branch = main
+[submodule "transfeminine-science"]
+	path = transfeminine-science
+	url = https://github.com/project-trans/transfeminine-science
+	branch = main
+[submodule "legal-spec"]
+	path = legal-spec
+	url = https://github.com/project-trans/legal-spec
+	branch = main
