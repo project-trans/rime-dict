@@ -1,5 +1,7 @@
 import os
 import collections
+import json
+import copy
 
 from markdown_it import MarkdownIt
 from mdit_plain.renderer import RendererPlain
@@ -37,7 +39,7 @@ for common_word_line in common_word_lines:
 seg = pkuseg.pkuseg(model_name="default_v2") # download from https://github.com/lancopku/pkuseg-python/releases/download/v0.0.25/default_v2.zip
 word_dict: dict[str, int] = collections.defaultdict(int)
 for sentence in sentence_list:
-    sentence2 = regex.sub("\\p{P}", " ", sentence).strip()
+    sentence2 = regex.sub("\\p{P}+", " ", sentence).strip()
     # word_list = jieba.cut(sentence2, cut_all=True, use_paddle=True)
     word_list = seg.cut(sentence2)
     for word in word_list:
@@ -45,15 +47,20 @@ for sentence in sentence_list:
         if len(word2) > 1 and word2 not in common_word_set and pattern.match(word2):
             word_dict[word2] += 1
 
-# wordcloud
-colormap = matplotlib.colors.ListedColormap(["#5BCEFA", "#F5A9B8", "#2D2D2D", "#9B59D0", "#FFF433"])
-w = wordcloud.WordCloud(width=1920, height=1080, font_path="sarasa-ui-tc-regular.ttf", background_color="#7f7f7f", colormap=colormap)
-w.generate_from_frequencies(word_dict)
-#w.to_file("result.png")
+# build wordcloud
+build_wordcloud = False;
+
+if build_wordcloud:
+    colormap = matplotlib.colors.ListedColormap(["#5BCEFA", "#F5A9B8", "#2D2D2D", "#9B59D0", "#FFF433"])
+    w = wordcloud.WordCloud(width=1920, height=1080, font_path="sarasa-ui-tc-regular.ttf", background_color="#7f7f7f", colormap=colormap)
+    w.generate_from_frequencies(word_dict)
+    w.to_file("result.png")
 
 # build dict
 word_list = sorted(word_dict.items(), key=lambda kv: kv[1], reverse=True)
-open("result.txt", "w").write(str(word_list))
+open("result.json", "w", encoding="utf8").write(json.dumps(word_list, ensure_ascii=False))
+
+#build rime dict
 rime_dict_str = """---
 name: project_trans
 version: "0.1"
@@ -61,12 +68,25 @@ sort: by_weight
 ...
 
 """
+rime_dict_pinyin_str = copy.deepcopy(rime_dict_str)
+
+pinyin_pattern = regex.compile("(\\w|\\s)+")
 for word in word_list:
-    word_str = word[0]
-    word_str += "\t"
-    word_str += " ".join(lazy_pinyin(word[0]))
-    word_str += "\t"
-    word_str += str(word[1])
-    word_str += "\n"
-    rime_dict_str += word_str
-open("project_trans.dict.yaml", "w").write(rime_dict_str)
+    pinyin = " ".join(lazy_pinyin(word[0]))
+    if pinyin_pattern.fullmatch(pinyin):
+        word_str = word[0]
+        word_str += "\t"
+        word_str += pinyin
+        word_str += "\t"
+        word_str += str(word[1])
+        word_str += "\n"
+        rime_dict_str += word_str
+
+        word_str_pinyin = word[0]
+        word_str_pinyin += "\t\t"
+        word_str_pinyin += str(word[1])
+        word_str_pinyin += "\n"
+        rime_dict_pinyin_str += word_str_pinyin
+
+open("project_trans.dict.yaml", "w", encoding="utf8").write(rime_dict_str)
+open("project_trans_pinyin.dict.yaml", "w", encoding="utf8").write(rime_dict_pinyin_str)

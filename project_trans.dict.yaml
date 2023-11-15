@@ -8,11 +8,11 @@ sort: by_weight
 雌激素	ci ji su	1114
 本品	ben pin	969
 睾酮	gao tong	890
-校区	xiao qu	797
+校区	xiao qu	813
 跨性别者	kua xing bie zhe	680
 孕激素	yun ji su	619
 雄激素	xiong ji su	498
-一个	yi ge	441
+一个	yi ge	444
 其它	qi ta	441
 不同	bu tong	429
 乳腺癌	ru xian ai	428
@@ -24,10 +24,10 @@ sort: by_weight
 性別	xing bie	243
 每日	mei ri	238
 升高	sheng gao	229
-体育课	ti yu ke	213
-精神科	jing shen ke	210
+体育课	ti yu ke	215
+校医院	xiao yi yuan	215
+精神科	jing shen ke	211
 发生率	fa sheng lv	207
-校医院	xiao yi yuan	207
 注射剂	zhu she ji	203
 戊酸雌二醇	wu suan ci er chun	198
 手術	shou shu	187
@@ -36,15 +36,15 @@ sort: by_weight
 贴片	tie pian	184
 单药	dan yao	182
 维基百科	wei ji bai ke	176
+第三	di san	171
+医保	yi bao	171
 安慰剂	an wei ji	171
-第三	di san	169
-医保	yi bao	167
 陰道	yin dao	162
 重置	zhong zhi	161
 醫生	yi sheng	153
 这种	zhe zhong	147
-体测	ti ce	143
-第二	di er	142
+体测	ti ce	147
+第二	di er	143
 阻断剂	zu duan ji	142
 的话	de hua	141
 皮瓣	pi ban	141
@@ -52,20 +52,20 @@ sort: by_weight
 游离雌二醇	you li ci er chun	135
 雷洛昔芬	lei luo xi fen	132
 醫院	yi yuan	131
-大一	da yi	127
+大一	da yi	128
 药代动力学	yao dai dong li xue	124
 易性症	yi xing zheng	122
 凝血	ning xue	120
 治疗组	zhi liao zu	119
 低剂量	di ji liang	117
 凝胶	ning jiao	115
+大部分	da bu fen	115
 安全性	an quan xing	114
 维基	wei ji	114
 很多	hen duo	113
 治療	zhi liao	112
 激动剂	ji dong ji	111
 進行	jin xing	110
-大部分	da bu fen	110
 只能	zhi neng	106
 電話	dian hua	103
 男性化	nan xing hua	102
@@ -91,7 +91,7 @@ sort: by_weight
 受试者	shou shi zhe	84
 这是	zhe shi	83
 拮抗剂	jie kang ji	83
-大二	da er	80
+大二	da er	81
 二元	er yuan	79
 雌酮	ci tong	79
 油溶液	you rong ye	79
@@ -118,15 +118,15 @@ sort: by_weight
 公众号	gong zhong hao	68
 来说	lai shuo	68
 潮热	chao re	68
+宿舍楼	su she lou	68
 時間	shi jian	67
 每年	mei nian	67
-校外	xiao wai	66
+校外	xiao wai	67
+独卫	du wei	66
 量表	liang biao	65
 雌二醇酯	ci er chun zhi	65
-独卫	du wei	65
 取决于	qu jue yu	64
 分为	fen wei	64
-宿舍楼	su she lou	63
 给药	gei yao	62
 风险率	feng xian lv	62
 并未	bing wei	62
@@ -142,11 +142,11 @@ sort: by_weight
 内膜	nei mo	57
 摄入	she ru	56
 說明書	shuo ming shu	56
+院系	yuan xi	56
+开出	kai chu	55
 分泌物	fen mi wu	55
 術後	shu hou	55
-院系	yuan xi	55
 檢查	jian cha	54
-开出	kai chu	54
 生育力	sheng yu li	54
 建議	jian yi	54
 擴張	kuo zhang	54
@@ -158,29 +158,29 @@ sort: by_weight
 可能性	ke neng xing	52
 可用	ke yong	52
 遇到	yu dao	52
-⽗母	⽗ mu	52
+三甲	san jia	52
 有效性	you xiao xing	51
 一点	yi dian	51
 子宫内膜癌	zi gong nei mo ai	51
+独浴	du yu	51
+上床	shang chuang	51
 代谢物	dai xie wu	51
-三甲	san jia	50
-独浴	du yu	50
-上床	shang chuang	50
+教育部	jiao yu bu	50
 两周	liang zhou	49
 劑量	ji liang	49
-教育部	jiao yu bu	49
 此处	ci chu	48
 他莫昔芬	ta mo xi fen	48
 皮管	pi guan	48
+医学院	yi xue yuan	47
 内分泌科	nei fen mi ke	47
 苏州	su zhou	47
 中位	zhong wei	47
 拮抗	jie kang	47
 藥品	yao pin	47
 这点	zhe dian	47
-医学院	yi xue yuan	46
 炔雌醇	gui ci chun	46
 肾功能	shen gong neng	46
+地铁站	di tie zhan	46
 清除率	qing chu lv	46
 每月	mei yue	45
 促性腺激素	cu xing xian ji su	45
@@ -192,7 +192,6 @@ sort: by_weight
 号线	hao xian	44
 阴蒂	yin di	44
 陰唇	yin chun	44
-地铁站	di tie zhan	44
 校内	xiao nei	44
 相關	xiang guan	43
 对此	dui ci	43
@@ -227,32 +226,32 @@ sort: by_weight
 周一	zhou yi	39
 对照组	dui zhao zu	39
 本法	ben fa	39
+保健班	bao jian ban	39
 友跨	you kua	38
+深圳	shen zhen	38
 勃起	bo qi	38
 多毛症	duo mao zheng	38
 游离睾酮	you li gao tong	38
 免训	mian xun	38
+亦可	yi ke	37
 影響	ying xiang	37
 做好	zuo hao	37
 面部	mian bu	37
-深圳	shen zhen	37
 看到	kan dao	37
 白蛋白	bai dan bai	37
 出現	chu xian	37
 資料	zi liao	36
 沒有	mei you	36
 卵泡	luan pao	36
-亦可	yi ke	36
 术式	shu shi	36
+抽血	chou xue	36
+挂号费	gua hao fei	36
 肝衰竭	gan shuai jie	36
 一旦	yi dan	36
 問題	wen ti	36
 導致	dao zhi	36
-保健班	bao jian ban	36
 費用	fei yong	35
 提到	ti dao	35
-抽血	chou xue	35
-挂号费	gua hao fei	35
 男孩	nan hai	35
 證明	zheng ming	35
 嚴重	yan zhong	35
@@ -267,6 +266,7 @@ sort: by_weight
 流行病学	liu xing bing xue	34
 中华人民共和国	zhong hua ren min gong he guo	33
 下表	xia biao	33
+深圳市	shen zhen shi	33
 慎用	shen yong	33
 观察期	guan cha qi	33
 深静脉血栓	shen jing mai xue shuan	33
@@ -279,12 +279,12 @@ sort: by_weight
 本次	ben ci	33
 跨儿	kua er	32
 列表	lie biao	32
-深圳市	shen zhen shi	32
 乳晕	ru yun	32
 筛查	shai cha	32
 事实上	shi shi shang	32
 診所	zhen suo	32
 陰莖	yin jing	32
+大四	da si	32
 主校区	zhu xiao qu	32
 学姐	xue jie	32
 西湖	xi hu	32
@@ -298,8 +298,8 @@ sort: by_weight
 譯文	yi wen	31
 傾向	qing xiang	31
 睪固酮	yi gu tong	31
-大四	da si	31
 查寝	cha qin	31
+选课	xuan ke	31
 早前	zao qian	31
 测定法	ce ding fa	31
 妊娠期	ren shen qi	31
@@ -312,16 +312,15 @@ sort: by_weight
 胃肠道	wei chang dao	30
 第二性征	di er xing zheng	30
 天后	tian hou	30
+分开	fen kai	30
 認同	ren tong	30
 同時	tong shi	30
-选课	xuan ke	30
 做出	zuo chu	29
 黄体	huang ti	29
 北医三院	bei yi san yuan	29
 这项	zhe xiang	29
 高剂量	gao ji liang	29
 醋酸环丙孕酮片	cu suan huan bing yun tong pian	29
-分开	fen kai	29
 身體	shen ti	29
 技術	ji shu	29
 名稱	ming cheng	29
@@ -329,6 +328,7 @@ sort: by_weight
 宿舍区	su she qu	29
 同质性	tong zhi xing	29
 统计学	tong ji xue	29
+免测	mian ce	28
 选择性	xuan ze xing	28
 甾体	zai ti	28
 很少	hen shao	28
@@ -345,7 +345,6 @@ sort: by_weight
 湘雅	xiang ya	27
 色普龙	se pu long	27
 取号	qu hao	27
-免测	mian ce	27
 不够	bu gou	27
 聚磷酸雌二醇	ju lin suan ci er chun	27
 排出	pai chu	27
@@ -425,6 +424,7 @@ sort: by_weight
 有關	you guan	23
 用藥	yong yao	23
 全身性	quan shen xing	23
+宿管	su guan	23
 导员	dao yuan	23
 合成孕酮	he cheng yun tong	23
 過程	guo cheng	22
@@ -433,12 +433,13 @@ sort: by_weight
 共用	gong yong	22
 测得	ce de	22
 相关性	xiang guan xing	22
+赵博	zhao bo	22
 摄入量	she ru liang	22
 单人间	dan ren jian	22
 範圍	fan wei	22
 價格	jia ge	22
-宿管	su guan	22
 断电	duan dian	22
+投稿人	tou gao ren	22
 十一酸睾酮	shi yi suan gao tong	22
 得出	de chu	22
 局限性	ju xian xing	22
@@ -457,12 +458,9 @@ sort: by_weight
 周四	zhou si	21
 抗性	kang xing	21
 作出	zuo chu	21
-赵博	zhao bo	21
 黃體素	huang ti su	21
 醫師	yi shi	21
 障礙	zhang ai	21
-投稿人	tou gao ren	21
-⾃⼰	⾃⼰	21
 缺血性	que xue xing	21
 还原酶	huan yuan mei	21
 质谱	zhi pu	21
@@ -478,6 +476,7 @@ sort: by_weight
 中译本	zhong yi ben	20
 撤退性	che tui xing	20
 庚酸雌二醇	geng suan ci er chun	20
+大概率	da gai lv	20
 位点	wei dian	20
 地區	di qu	20
 事項	shi xiang	20
@@ -500,12 +499,13 @@ sort: by_weight
 赵烨德	zhao ye de	19
 假体	jia ti	19
 双氢睾酮	shuang qing gao tong	19
+佳乐	jia le	19
 周二	zhou er	19
 见到	jian dao	19
 抗雌激素	kang ci ji su	19
 醛固酮	quan gu tong	19
+他处	ta chu	19
 进去	jin qu	19
-大概率	da gai lv	19
 温州	wen zhou	19
 阴道口	yin dao kou	19
 尿道口	niao dao kou	19
@@ -533,13 +533,11 @@ sort: by_weight
 血常规	xue chang gui	18
 超声	chao sheng	18
 很快	hen kuai	18
-佳乐	jia le	18
 过敏反应	guo min fan ying	18
 大剂量	da ji liang	18
 血钾	xue jia	18
 某种	mou zhong	18
 性冲动	xing chong dong	18
-他处	ta chu	18
 湿巾	shi jin	18
 拉伸	la shen	18
 外阴	wai yin	18
@@ -554,6 +552,8 @@ sort: by_weight
 類似	lei shi	18
 性行為	xing xing wei	18
 挂科	gua ke	18
+计入	ji ru	18
+教学区	jiao xue qu	18
 室友	shi you	18
 黄家湖	huang jia hu	18
 睾酮酯	gao tong zhi	18
@@ -598,8 +598,6 @@ sort: by_weight
 陰囊	yin nang	17
 併發症	bing fa zheng	17
 南门	nan men	17
-计入	ji ru	17
-教学区	jiao xue qu	17
 模拟器	mo ni qi	17
 抗雄制剂	kang xiong zhi ji	17
 甾体类	zai ti lei	17
@@ -609,6 +607,7 @@ sort: by_weight
 新宿	xin su	16
 傷口	shang kou	16
 天津市	tian jin shi	16
+西安市	xi an shi	16
 武汉市	wu han shi	16
 四一一	si yi yi	16
 拿到	na dao	16
@@ -636,6 +635,7 @@ sort: by_weight
 變更	bian geng	16
 舍友	she you	16
 绩点	ji dian	16
+引体	yin ti	16
 住宿费	zhu su fei	16
 上下铺	shang xia pu	16
 南湖	nan hu	16
@@ -672,7 +672,7 @@ sort: by_weight
 結構	jie gou	15
 东校区	dong xiao qu	15
 免修	mian xiu	15
-引体	yin ti	15
+浴帘	yu lian	15
 动漫社	dong man she	15
 骑车	qi che	15
 十二	shi er	15
@@ -685,9 +685,9 @@ sort: by_weight
 診察	zhen cha	14
 結果	jie guo	14
 比較	bi jiao	14
+我国	wo guo	14
 本页	ben ye	14
 成都市	cheng du shi	14
-西安市	xi an shi	14
 存档站	cun dang zhan	14
 第五	di wu	14
 本院	ben yuan	14
@@ -697,6 +697,7 @@ sort: by_weight
 一般而言	yi ban er yan	14
 首诊	shou zhen	14
 达英	da ying	14
+综合性	zong he xing	14
 自助机	zi zhu ji	14
 其他人	qi ta ren	14
 一家	yi jia	14
@@ -729,7 +730,6 @@ sort: by_weight
 評估	ping gu	14
 小時	xiao shi	14
 北校区	bei xiao qu	14
-浴帘	yu lian	14
 三年	san nian	14
 社康	she kang	14
 降至	jiang zhi	14
@@ -746,7 +746,6 @@ sort: by_weight
 午後	wu hou	13
 中央区	zhong yang qu	13
 贡献者	gong xian zhe	13
-我国	wo guo	13
 重庆市	chong qing shi	13
 福建省	fu jian sheng	13
 回到	hui dao	13
@@ -820,7 +819,6 @@ sort: by_weight
 周三	zhou san	12
 还要	hai yao	12
 彩超	cai chao	12
-综合性	zong he xing	12
 海淀区	hai dian qu	12
 加注	jia zhu	12
 螺内	luo nei	12
@@ -836,6 +834,7 @@ sort: by_weight
 这时	zhe shi	12
 大大	da da	12
 切除术	qie chu shu	12
+不会	bu hui	12
 前一天	qian yi tian	12
 深柜	shen gui	12
 值得一提的是	zhi de yi ti de shi	12
@@ -887,6 +886,7 @@ sort: by_weight
 第九	di jiu	11
 分诊台	fen zhen tai	11
 生化	sheng hua	11
+不予	bu yu	11
 为由	wei you	11
 不佳	bu jia	11
 测出	ce chu	11
@@ -902,9 +902,9 @@ sort: by_weight
 前瞻性	qian zhan xing	11
 任一	ren yi	11
 高达	gao da	11
+二级	er ji	11
 润滑液	run hua ye	11
 喝水	he shui	11
-不会	bu hui	11
 知乎	zhi hu	11
 近年来	jin nian lai	11
 腹腔镜	fu qiang jing	11
@@ -975,7 +975,6 @@ sort: by_weight
 第七	di qi	10
 曹秋云	cao qiu yun	10
 抗雄激素	kang xiong ji su	10
-不予	bu yu	10
 中山	zhong shan	10
 回家	hui jia	10
 甲状腺素	jia zhuang xian su	10
@@ -991,7 +990,6 @@ sort: by_weight
 中段	zhong duan	10
 大证	da zheng	10
 放号	fang hao	10
-二级	er ji	10
 有时候	you shi hou	10
 医用	yi yong	10
 术区	shu qu	10
@@ -1021,6 +1019,7 @@ sort: by_weight
 管理学	guan li xue	10
 校门口	xiao men kou	10
 新楼	xin lou	10
+抢课	qiang ke	10
 长清湖	zhang qing hu	10
 视作	shi zuo	10
 写道	xie dao	10
@@ -1073,11 +1072,12 @@ sort: by_weight
 乙状结肠	yi zhuang jie chang	9
 推入	tui ru	9
 公安部	gong an bu	9
+学信网	xue xin wang	9
 毕业证	bi ye zheng	9
 禁水	jin shui	9
+检出	jian chu	9
 备皮	bei pi	9
 数十	shu shi	9
-检出	jian chu	9
 更少	geng shao	9
 旧金山	jiu jin shan	9
 大佬	da lao	9
@@ -1126,7 +1126,6 @@ sort: by_weight
 重要性	zhong yao xing	9
 房型	fang xing	9
 建成	jian cheng	9
-抢课	qiang ke	9
 总体而言	zong ti er yan	9
 同济	tong ji	9
 中大	zhong da	9
@@ -1157,6 +1156,7 @@ sort: by_weight
 家族史	jia zu shi	9
 酸中毒	suan zhong du	9
 保护膜	bao hu mo	9
+一万	yi wan	8
 決定	jue ding	8
 現在	xian zai	8
 採用	cai yong	8
@@ -1268,6 +1268,8 @@ sort: by_weight
 教育学	jiao yu xue	8
 理学	li xue	8
 艺术学	yi shu xue	8
+前屈	qian qu	8
+商业区	shang ye qu	8
 软件园	ruan jian yuan	8
 少部分	shao bu fen	8
 此法	ci fa	8
@@ -1348,6 +1350,7 @@ sort: by_weight
 药监局	yao jian ju	7
 百度	bai du	7
 糖耐量	tang nai liang	7
+最早	zui zao	7
 报告单	bao gao dan	7
 简论	jian lun	7
 眼部	yan bu	7
@@ -1356,7 +1359,6 @@ sort: by_weight
 低钠血症	di na xue zheng	7
 亚型	ya xing	7
 巴多昔芬	ba duo xi fen	7
-一万	yi wan	7
 苯基	ben ji	7
 栓塞性	shuan se xing	7
 利钾	li jia	7
@@ -1365,34 +1367,36 @@ sort: by_weight
 避开	bi kai	7
 童年期	tong nian qi	7
 写明	xie ming	7
+东侧	dong ce	7
 前述	qian shu	7
 多重	duo zhong	7
 时间线	shi jian xian	7
 扫码	sao ma	7
 加收	jia shou	7
+申请表	shen qing biao	7
 开塞露	kai sai lu	7
 甜甜圈	tian tian quan	7
 恢复期	hui fu qi	7
 下体	xia ti	7
 阴道壁	yin dao bi	7
 阴道炎	yin dao yan	7
-学信网	xue xin wang	7
 可用性	ke yong xing	7
 手术期	shou shu qi	7
 海绵体	hai mian ti	7
 内侧	nei ce	7
+研究型	yan jiu xing	7
 吐槽	tu cao	7
 聚乙二醇	ju yi er chun	7
 取出	qu chu	7
-术晨	shu chen	7
-平躺	ping tang	7
-走到	zou dao	7
-体育运动	ti yu yun dong	7
 每间	mei jian	7
 腰麻	yao ma	7
 是的	shi de	7
 一块	yi kuai	7
+平躺	ping tang	7
 嗜睡	shi shui	7
+走到	zou dao	7
+术晨	shu chen	7
+体育运动	ti yu yun dong	7
 丙型	bing xing	7
 重物	zhong wu	7
 扩张器	kuo zhang qi	7
@@ -1441,10 +1445,9 @@ sort: by_weight
 像是	xiang shi	7
 宽带	kuan dai	7
 江宁	jiang ning	7
-前屈	qian qu	7
+坐位体	zuo wei ti	7
 清华	qing hua	7
 光谷	guang gu	7
-商业区	shang ye qu	7
 保健课	bao jian ke	7
 小吃街	xiao chi jie	7
 双人间	shuang ren jian	7
@@ -1453,8 +1456,10 @@ sort: by_weight
 国家标准	guo jia biao zhun	7
 珠海	zhu hai	7
 三大	san da	7
+通识	tong shi	7
 储物柜	chu wu gui	7
 云谷	yun gu	7
+少年班	shao nian ban	7
 左炔诺孕酮	zuo gui nuo yun tong	7
 肺栓塞	fei shuan se	7
 癸酸诺龙	gui suan nuo long	7
@@ -1541,7 +1546,6 @@ sort: by_weight
 下丘脑	xia qiu nao	6
 复方药	fu fang yao	6
 甲状腺素结合球蛋白	jia zhuang xian su jie he qiu dan bai	6
-最早	zui zao	6
 泌乳素瘤	mi ru su liu	6
 气胀	qi zhang	6
 纵隔	zong ge	6
@@ -1561,7 +1565,6 @@ sort: by_weight
 污名化	wu ming hua	6
 无号	wu hao	6
 放出	fang chu	6
-东侧	dong ce	6
 这位	zhe wei	6
 单子	dan zi	6
 墙上	qiang shang	6
@@ -1579,13 +1582,12 @@ sort: by_weight
 阴道瘘	yin dao lou	6
 排便	pai bian	6
 反雄	fan xiong	6
-研究型	yan jiu xing	6
 公治	gong zhi	6
 补片	bu pian	6
 大阴唇	da yin chun	6
 合法性	he fa xing	6
-饮水	yin shui	6
 换药室	huan yao shi	6
+饮水	yin shui	6
 所有人	suo you ren	6
 妇检室	fu jian shi	6
 计划表	ji hua biao	6
@@ -1656,6 +1658,7 @@ sort: by_weight
 我校	wo xiao	6
 昌平线	chang ping xian	6
 分班	fen ban	6
+生活区	sheng huo qu	6
 副院长	fu yuan zhang	6
 卫生室	wei sheng shi	6
 防晒	fang shai	6
@@ -1665,10 +1668,10 @@ sort: by_weight
 药科	yao ke	6
 岳麓区	yue lu qu	6
 接受度	jie shou du	6
-坐位体	zuo wei ti	6
 研究生院	yan jiu sheng yuan	6
 洪山区	hong shan qu	6
 凌水	ling shui	6
+退宿	tui su	6
 瑞幸	rui xing	6
 用作	yong zuo	6
 博川	bo chuan	6
@@ -1676,6 +1679,7 @@ sort: by_weight
 儋州	dan zhou	6
 全覆盖	quan fu gai	6
 社保卡	she bao ka	6
+缓测	huan ce	6
 融入	rong ru	6
 女寝	nv qin	6
 浑南	hun nan	6
@@ -1683,7 +1687,6 @@ sort: by_weight
 龙山	long shan	6
 本专科	ben zhuan ke	6
 新世纪	xin shi ji	6
-通识	tong shi	6
 温州市	wen zhou shi	6
 马房山	ma fang shan	6
 西湖区	xi hu qu	6
@@ -1851,7 +1854,7 @@ sort: by_weight
 专注力	zhuan zhu li	5
 楼下	lou xia	5
 粘合剂	nian he ji	5
-申请表	shen qing biao	5
+身份证号	shen fen zheng hao	5
 过敏者	guo min zhe	5
 对乙酰氨基酚	dui yi xian an ji fen	5
 甲硝唑	jia xiao zuo	5
@@ -1870,17 +1873,17 @@ sort: by_weight
 不怎么	bu zen me	5
 水杯	shui bei	5
 拔掉	ba diao	5
+赵博会	zhao bo hui	5
+首日	shou ri	5
+利多卡因	li duo ka yin	5
+镇痛泵	zhen tong beng	5
+不住	bu zhu	5
 普食	pu shi	5
 通模	tong mo	5
 紧身	jin shen	5
 手术者	shou shu zhe	5
 既往史	ji wang shi	5
-镇痛泵	zhen tong beng	5
-赵博会	zhao bo hui	5
 踝关节	huai guan jie	5
-不住	bu zhu	5
-首日	shou ri	5
-利多卡因	li duo ka yin	5
 刘阳	liu yang	5
 妇三科	fu san ke	5
 肠代	chang dai	5
@@ -1974,7 +1977,6 @@ sort: by_weight
 男女生	nan nv sheng	5
 转往	zhuan wang	5
 大运村	da yun cun	5
-生活区	sheng huo qu	5
 昌平	chang ping	5
 逃掉	tao diao	5
 北邮	bei you	5
@@ -1989,7 +1991,6 @@ sort: by_weight
 梆子井	bang zi jing	5
 游泳课	you yong ke	5
 硕士生	shuo shi sheng	5
-换宿	huan su	5
 文昌	wen chang	5
 盘锦	pan jin	5
 高铁	gao tie	5
@@ -2004,7 +2005,6 @@ sort: by_weight
 看出	kan chu	5
 该校	gai xiao	5
 无锡	wu xi	5
-缓测	huan ce	5
 骑行	qi xing	5
 文化路	wen hua lu	5
 汉中门	han zhong men	5
@@ -2027,12 +2027,13 @@ sort: by_weight
 茶山	cha shan	5
 余家头	yu jia tou	5
 西溪	xi xi	5
+换宿	huan su	5
+兴庆	xing qing	5
 合规	he gui	5
 透皮睾酮	tou pi gao tong	5
 断针	duan zhen	5
 溶解度	rong jie du	5
 提闭	ti bi	5
-⼼理	⼼ li	5
 束身衣	shu shen yi	5
 活动性	huo dong xing	5
 拔管	ba guan	5
@@ -2218,7 +2219,6 @@ sort: by_weight
 样例	yang li	4
 一对一	yi dui yi	4
 加长	jia zhang	4
-身份证号	shen fen zheng hao	4
 试试	shi shi	4
 郑天生	zheng tian sheng	4
 粘稠	nian chou	4
@@ -2241,10 +2241,10 @@ sort: by_weight
 脂溢性	zhi yi xing	4
 侵入性	qin ru xing	4
 国内外	guo nei wai	4
-生源地	sheng yuan di	4
-加盖	jia gai	4
 中西医	zhong xi yi	4
 该类	gai lei	4
+加盖	jia gai	4
+生源地	sheng yuan di	4
 公序	gong xu	4
 良俗	liang su	4
 居住地	ju zhu di	4
@@ -2254,16 +2254,16 @@ sort: by_weight
 十五	shi wu	4
 两三	liang san	4
 喝下	he xia	4
-数百	shu bai	4
-用完	yong wan	4
-软质	ruan zhi	4
-收走	shou zou	4
-止痛泵	zhi tong beng	4
 监护仪	jian hu yi	4
 两点	liang dian	4
 纳肛	na gang	4
 刺入	ci ru	4
 听到	ting dao	4
+数百	shu bai	4
+用完	yong wan	4
+软质	ruan zhi	4
+收走	shou zou	4
+止痛泵	zhi tong beng	4
 非甾体抗炎药	fei zai ti kang yan yao	4
 不可能	bu ke neng	4
 反跨	fan kua	4
@@ -2409,6 +2409,7 @@ sort: by_weight
 免体	mian ti	4
 公寓式	gong yu shi	4
 感冒药	gan mao yao	4
+扣分	kou fen	4
 大三大	da san da	4
 不尽相同	bu jin xiang tong	4
 公寓楼	gong yu lou	4
@@ -2441,7 +2442,6 @@ sort: by_weight
 美式	mei shi	4
 蜜雪	mi xue	4
 冰城	bing cheng	4
-退宿	tui su	4
 邯郸	han dan	4
 云浮	yun fu	4
 获批	huo pi	4
@@ -2490,6 +2490,7 @@ sort: by_weight
 临安	lin an	4
 海宁	hai ning	4
 柳园	liu yuan	4
+计生委	ji sheng wei	4
 循证医学	xun zheng yi xue	4
 加瑞克	jia rui ke	4
 思特珑	si te long	4
@@ -2498,11 +2499,6 @@ sort: by_weight
 总睾酮	zong gao tong	4
 修头	xiu tou	4
 顺性别者	shun xing bie zhe	4
-⽀持	⽀ chi	4
-正⾯	zheng ⾯	4
-孩⼦	hai ⼦	4
-⼀定	⼀ ding	4
-⽅式	⽅ shi	4
 积液	ji ye	4
 颈部	jing bu	4
 变装	bian zhuang	4
@@ -2629,6 +2625,7 @@ sort: by_weight
 送诊	song zhen	4
 保护性	bao hu xing	4
 失德	shi de	4
+停用词	ting yong ci	3
 執筆	zhi bi	3
 確定	que ding	3
 性傾向	xing qing xiang	3
@@ -2686,6 +2683,7 @@ sort: by_weight
 资源站	zi yuan zhan	3
 维护者	wei hu zhe	3
 山东省立医院	shan dong sheng li yi yuan	3
+西京	xi jing	3
 美容科	mei rong ke	3
 外源	wai yuan	3
 郝树伟	hao shu wei	3
@@ -2765,13 +2763,10 @@ sort: by_weight
 经皮吸收	jing pi xi shou	3
 检测值	jian ce zhi	3
 刺激感	ci ji gan	3
-乐®	le ®	3
 国补	guo bu	3
-蒙®	meng ®	3
 复合片	fu he pian	3
 半水合雌二醇	ban shui he ci er chun	3
 丹麦	dan mai	3
-通©	tong ©	3
 酮片	tong pian	3
 远弱	yuan ruo	3
 格浦尔市	ge pu er shi	3
@@ -2828,9 +2823,6 @@ sort: by_weight
 自愈	zi yu	3
 肉芽组织	rou ya zu zhi	3
 多重性	duo zhong xing	3
-比对	bi dui	3
-学位证	xue wei zheng	3
-攻略	gong lve	3
 周月琴	zhou yue qin	3
 徐汇区	xu hui qu	3
 营业厅	ying ye ting	3
@@ -2839,6 +2831,9 @@ sort: by_weight
 不切实际	bu qie shi ji	3
 皮片	pi pian	3
 环切	huan qie	3
+比对	bi dui	3
+学位证	xue wei zheng	3
+攻略	gong lve	3
 第三十六	di san shi liu	3
 第三十四	di san shi si	3
 拟行	ni xing	3
@@ -2851,13 +2846,17 @@ sort: by_weight
 全麻	quan ma	3
 一会	yi hui	3
 到时候	dao shi hou	3
+脱毛膏	tuo mao gao	3
+留置针	liu zhi zhen	3
+流出	liu chu	3
+林格	lin ge	3
+胀气	zhang qi	3
 京东	jing dong	3
 抽纸	chou zhi	3
 滴注	di zhu	3
 会议室	hui yi shi	3
 垃圾桶	la ji tong	3
 根部	gen bu	3
-林格	lin ge	3
 连着	lian zhe	3
 血氧	xue yang	3
 屈伸	qu shen	3
@@ -2866,10 +2865,6 @@ sort: by_weight
 摇高	yao gao	3
 坐床	zuo chuang	3
 皮内	pi nei	3
-脱毛膏	tuo mao gao	3
-留置针	liu zhi zhen	3
-流出	liu chu	3
-胀气	zhang qi	3
 喉部	hou bu	3
 秦成路	qin cheng lu	3
 三科	san ke	3
@@ -3090,7 +3085,6 @@ sort: by_weight
 锁门	suo men	3
 朝阳区	chao yang qu	3
 号楼	hao lou	3
-扣分	kou fen	3
 换证	huan zheng	3
 用电	yong dian	3
 工信部	gong xin bu	3
@@ -3138,11 +3132,9 @@ sort: by_weight
 私密度	si mi du	3
 南望山	nan wang shan	3
 鲁磨路	lu mo lu	3
+新城	xin cheng	3
 乐跑	le pao	3
 关注度	guan zhu du	3
-爱联	ai lian	3
-高三	gao san	3
-校巴	xiao ba	3
 东华	dong hua	3
 有轨	you gui	3
 盘锦市	pan jin shi	3
@@ -3194,6 +3186,7 @@ sort: by_weight
 星巴克	xing ba ke	3
 纸质版	zhi zhi ban	3
 医学类	yi xue lei	3
+修完	xiu wan	3
 龙湖	long hu	3
 天街	tian jie	3
 男女性	nan nv xing	3
@@ -3233,6 +3226,7 @@ sort: by_weight
 潍坊市	wei fang shi	3
 美方	mei fang	3
 住宿区	zhu su qu	3
+高三	gao san	3
 修习	xiu xi	3
 太仓	tai cang	3
 国家级	guo jia ji	3
@@ -3245,6 +3239,9 @@ sort: by_weight
 华家池	hua jia chi	3
 舟山	zhou shan	3
 最新	zui xin	3
+爱联	ai lian	3
+校巴	xiao ba	3
+院务	yuan wu	3
 分段	fen duan	3
 实质性	shi zhi xing	3
 压痛	ya tong	3
@@ -3272,8 +3269,6 @@ sort: by_weight
 脚踝	jiao huai	3
 长痘	zhang dou	3
 现北	xian bei	3
-医⽣	yi ⽣	3
-⽣活	⽣ huo	3
 脸型	lian xing	3
 动刀	dong dao	3
 血管瘤	xue guan liu	3
@@ -3442,13 +3437,12 @@ sort: by_weight
 握住	wo zhu	3
 日达峰	ri da feng	3
 低水平	di shui ping	3
-计生委	ji sheng wei	3
 政策性	zheng ce xing	3
 中小学校	zhong xiao xue xiao	3
 探访者	tan fang zhe	3
 国家广播电视总局办公厅	guo jia guang bo dian shi zong ju ban gong ting	3
 词表	ci biao	2
-词云	ci yun	2
+根目录	gen mu lu	2
 助け	zhu け	2
 生ま	sheng ま	2
 徴を	zheng を	2
@@ -3524,7 +3518,6 @@ sort: by_weight
 週に	zhou に	2
 模原市	mo yuan shi	2
 剤代	ji dai	2
-円+税	yuan + shui	2
 横浜院	heng bang yuan	2
 卵胞	luan bao	2
 当事者	dang shi zhe	2
@@ -3611,7 +3604,6 @@ sort: by_weight
 孙逸仙纪念	sun yi xian ji nian	2
 王成芷	wang cheng zhi	2
 杨欣	yang xin	2
-西京	xi jing	2
 夏文森	xia wen sen	2
 王荣光	wang rong guang	2
 黄冬雁	huang dong yan	2
@@ -3801,6 +3793,7 @@ sort: by_weight
 程明会	cheng ming hui	2
 诊单	zhen dan	2
 霸凌	ba ling	2
+互不	hu bu	2
 详询	xiang xun	2
 南京鼓楼医院	nan jing gu lou yi yuan	2
 加载	jia zai	2
@@ -3891,12 +3884,6 @@ sort: by_weight
 穹窿	qiong long	2
 肛门镜	gang men jing	2
 撤回	che hui	2
-大学会	da xue hui	2
-四六级	si liu ji	2
-第十九	di shi jiu	2
-第十三	di shi san	2
-许可法	xu ke fa	2
-第四十九	di si shi jiu	2
 东方公证处	dong fang gong zheng chu	2
 触碰	chu peng	2
 福清市	fu qing shi	2
@@ -3922,6 +3909,12 @@ sort: by_weight
 耐用性	nai yong xing	2
 造腔	zao qiang	2
 不尽人意	bu jin ren yi	2
+大学会	da xue hui	2
+四六级	si liu ji	2
+第十九	di shi jiu	2
+第十三	di shi san	2
+许可法	xu ke fa	2
+第四十九	di si shi jiu	2
 公证法	gong zheng fa	2
 第四十八	di si shi ba	2
 声明书	sheng ming shu	2
@@ -3944,6 +3937,31 @@ sort: by_weight
 成型科	cheng xing ke	2
 住院楼	zhu yuan lou	2
 退费	tui fei	2
+内衣裤	nei yi ku	2
+垃圾袋	la ji dai	2
+纸杯	zhi bei	2
+蒙脱石散	meng tuo shi san	2
+手术史	shou shu shi	2
+换上	huan shang	2
+留取	liu qu	2
+台处	tai chu	2
+四点	si dian	2
+一整天	yi zheng tian	2
+麻醉药	ma zui yao	2
+导泻	dao xie	2
+戴上	dai shang	2
+脱光	tuo guang	2
+疼痛感	teng tong gan	2
+滴速	di su	2
+插上	cha shang	2
+大针	da zhen	2
+重打	zhong da	2
+脑脊液	nao ji ye	2
+推车	tui che	2
+推回	tui hui	2
+第三日	di san ri	2
+夹住	jia zhu	2
+流汗	liu han	2
 顺丰	shun feng	2
 挨个	ai ge	2
 插排	cha pai	2
@@ -3953,10 +3971,8 @@ sort: by_weight
 单手	dan shou	2
 马尾	ma yi	2
 盐酸丙帕	yan suan bing pa	2
-蒙脱石散	meng tuo shi san	2
 床证	chuang zheng	2
 易性证	yi xing zheng	2
-推车	tui che	2
 铁盘	tie pan	2
 吃完	chi wan	2
 弹力袜	tan li wa	2
@@ -3964,38 +3980,15 @@ sort: by_weight
 热水澡	re shui zao	2
 无限期	wu xian qi	2
 穿上	chuan shang	2
-换上	huan shang	2
-麻醉药	ma zui yao	2
 四十	si shi	2
-推回	tui hui	2
 关掉	guan diao	2
-重打	zhong da	2
 维生素C	wei sheng su C	2
 氯化钠	lv hua na	2
 一针	yi zhen	2
 止痛针	zhi tong zhen	2
 杜冷丁	du leng ding	2
 拔完	ba wan	2
-夹住	jia zhu	2
 吕公证	lv gong zheng	2
-内衣裤	nei yi ku	2
-垃圾袋	la ji dai	2
-纸杯	zhi bei	2
-手术史	shou shu shi	2
-留取	liu qu	2
-台处	tai chu	2
-四点	si dian	2
-一整天	yi zheng tian	2
-导泻	dao xie	2
-戴上	dai shang	2
-脱光	tuo guang	2
-疼痛感	teng tong gan	2
-滴速	di su	2
-插上	cha shang	2
-大针	da zhen	2
-脑脊液	nao ji ye	2
-第三日	di san ri	2
-流汗	liu han	2
 镜面	jing mian	2
 冰敷	bing fu	2
 麻荪	ma sun	2
@@ -4622,19 +4615,13 @@ sort: by_weight
 学院南路	xue yuan nan lu	2
 风评	feng ping	2
 歧视性	qi shi xing	2
+财经类	cai jing lei	2
 南望	nan wang	2
 地质学	di zhi xue	2
 八一路	ba yi lu	2
 珞喻路	luo yu lu	2
 未来城	wei lai cheng	2
-新城	xin cheng	2
 步道	bu dao	2
-变差	bian cha	2
-收分	shou fen	2
-裸分	luo fen	2
-方差	fang cha	2
-内卷	nei juan	2
-宁诺	ning nuo	2
 紫雪	zi xue	2
 性价	xing jia	2
 崇德	chong de	2
@@ -4714,6 +4701,7 @@ sort: by_weight
 二档	er dang	2
 次年	ci nian	2
 小伙伴	xiao huo ban	2
+西站	xi zhan	2
 呜呜	wu wu	2
 极少数	ji shao shu	2
 统战部	tong zhan bu	2
@@ -4777,7 +4765,6 @@ sort: by_weight
 上下课	shang xia ke	2
 跨学院	kua xue yuan	2
 甲类	jia lei	2
-修完	xiu wan	2
 安塞	an sai	2
 几千	ji qian	2
 生科	sheng ke	2
@@ -4853,13 +4840,6 @@ sort: by_weight
 岳阳路	yue yang lu	2
 学楼	xue lou	2
 取件	qu jian	2
-清华大学	qing hua da xue	2
-微信群	wei xin qun	2
-历史学	li shi xue	2
-中厅	zhong ting	2
-小便池	xiao bian chi	2
-博生	bo sheng	2
-后于	hou yu	2
 军协	jun xie	2
 能不能	neng bu neng	2
 保障卡	bao zhang ka	2
@@ -4867,6 +4847,7 @@ sort: by_weight
 虹口区	hong kou qu	2
 中小学生	zhong xiao xue sheng	2
 橘红色	ju hong se	2
+后于	hou yu	2
 摆烂	bai lan	2
 海河	hai he	2
 勤物	qin wu	2
@@ -4884,6 +4865,7 @@ sort: by_weight
 菜鸟	cai niao	2
 这两年	zhe liang nian	2
 诺丁汉	nuo ding han	2
+宁诺	ning nuo	2
 宁波市	ning bo shi	2
 鄞州区	yin zhou qu	2
 虞河	yu he	2
@@ -4919,6 +4901,7 @@ sort: by_weight
 左手	zuo shou	2
 仙女湖	xian nv hu	2
 衣锦	yi jin	2
+历史学	li shi xue	2
 之江	zhi jiang	2
 舟山市	zhou shan shi	2
 二七区	er qi qu	2
@@ -4926,6 +4909,20 @@ sort: by_weight
 松园	song yuan	2
 荷球	he qiu	2
 样貌	yang mao	2
+变差	bian cha	2
+收分	shou fen	2
+裸分	luo fen	2
+方差	fang cha	2
+龙岗区	long gang qu	2
+内卷	nei juan	2
+清华大学	qing hua da xue	2
+微信群	wei xin qun	2
+中厅	zhong ting	2
+小便池	xiao bian chi	2
+博生	bo sheng	2
+雁塔	yan ta	2
+崇实	chong shi	2
+后部	hou bu	2
 版块	ban kuai	2
 句末	ju mo	2
 编辑器	bian ji qi	2
@@ -4979,20 +4976,7 @@ sort: by_weight
 绝佳	jue jia	2
 剃须	ti xu	2
 皂基	zao ji	2
-⾃⾝	⾃⾝	2
-独⽴	du ⽴	2
-⽣存	⽣ cun	2
-⼯作	⼯ zuo	2
-进⾏	jin ⾏	2
-⾮常	⾮ chang	2
 授权书	shou quan shu	2
-担⼼	dan ⼼	2
-⼀段	⼀ duan	2
-⽴场	⽴ chang	2
-负⾯	fu ⾯	2
-⽭盾	⽭ dun	2
-⼀⽅	⼀⽅	2
-中⼼	zhong ⼼	2
 冠状病毒	guan zhuang bing du	2
 束胸衣	shu xiong yi	2
 腹式	fu shi	2
@@ -5453,8 +5437,10 @@ sort: by_weight
 输血率	shu xue lv	2
 狭窄率	xia zhai lv	2
 男变	nan bian	2
-停用词	ting yong ci	1
+分词	fen ci	1
 现代汉语	xian dai han yu	1
+降序	jiang xu	1
+词云	ci yun	1
 常用词	chang yong ci	1
 瞭解到	liao jie dao	1
 選擇權	xuan ze quan	1
@@ -5941,8 +5927,6 @@ sort: by_weight
 没钱	mei qian	1
 烫手山芋	tang shou shan yu	1
 进制	jin zhi	1
-毫|	hao |	1
-微|micro|	wei |micro|	1
 阿伏伽德罗	a fu ga de luo	1
 氧分子	yang fen zi	1
 水分子	shui fen zi	1
@@ -6094,7 +6078,6 @@ sort: by_weight
 疤痕膏	ba hen gao	1
 训练师	xun lian shi	1
 华中科技大学协	hua zhong ke ji da xue xie	1
-乐®戊酸	le ® wu suan	1
 日语版	ri yu ban	1
 留卡	liu ka	1
 保险证	bao xian zheng	1
@@ -6267,7 +6250,6 @@ sort: by_weight
 博泰维康	bo tai wei kang	1
 南京臣功制药	nan jing chen gong zhi yao	1
 法禄	fa lu	1
-仙琚®	xian ju ®	1
 肠系膜	chang xi mo	1
 视乳头	shi ru tou	1
 二酮醋酸酯	er tong cu suan zhi	1
@@ -6393,7 +6375,6 @@ sort: by_weight
 首诊费	shou zhen fei	1
 读出	du chu	1
 肱静脉	gong jing mai	1
-互不	hu bu	1
 前测	qian ce	1
 反复期	fan fu qi	1
 疾病化	ji bing hua	1
@@ -6538,19 +6519,6 @@ sort: by_weight
 人乳头瘤病毒	ren ru tou liu bing du	1
 鸡巴	ji ba	1
 靠后	kao hou	1
-意见书	yi jian shu	1
-重考	zhong kao	1
-明文规定	ming wen gui ding	1
-户政	hu zheng	1
-错号	cuo hao	1
-获得者	huo de zhe	1
-国务院学位委员会	guo wu yuan xue wei wei yuan hui	1
-许可人	xu ke ren	1
-朱志辉	zhu zhi hui	1
-李煜兴	li yu xing	1
-簿页	bu ye	1
-打印件	da yin jian	1
-跨儿术	kua er shu	1
 征信	zheng xin	1
 康环	kang huan	1
 本原件	ben yuan jian	1
@@ -6586,6 +6554,19 @@ sort: by_weight
 商业性	shang ye xing	1
 性感觉	xing gan jue	1
 脱垂	tuo chui	1
+意见书	yi jian shu	1
+重考	zhong kao	1
+明文规定	ming wen gui ding	1
+户政	hu zheng	1
+错号	cuo hao	1
+获得者	huo de zhe	1
+国务院学位委员会	guo wu yuan xue wei wei yuan hui	1
+许可人	xu ke ren	1
+朱志辉	zhu zhi hui	1
+李煜兴	li yu xing	1
+簿页	bu ye	1
+打印件	da yin jian	1
+跨儿术	kua er shu	1
 书后	shu hou	1
 证明力	zheng ming li	1
 持有者	chi you zhe	1
@@ -6628,6 +6609,66 @@ sort: by_weight
 睡去	shui qu	1
 止疼泵	zhi teng beng	1
 躺时	tang shi	1
+赵博处	zhao bo chu	1
+你妈	ni ma	1
+外衣裤	wai yi ku	1
+插线板	cha xian ban	1
+难用	nan yong	1
+海绵垫	hai mian dian	1
+打出	da chu	1
+号服	hao fu	1
+抽好	chou hao	1
+几管	ji guan	1
+采集管	cai ji guan	1
+超单	chao dan	1
+超室	chao shi	1
+约好	yue hao	1
+椎管	chui guan	1
+下半身	xia ban shen	1
+皮刀	pi dao	1
+刮体	gua ti	1
+备皮刀	bei pi dao	1
+小段	xiao duan	1
+便后	bian hou	1
+氧气管	yang qi guan	1
+挡道	dang dao	1
+桑塔露琪娅	sang ta lu qi ya	1
+软针	ruan zhen	1
+鼓掉	gu diao	1
+侧躺	ce tang	1
+忍住	ren zhu	1
+反射式	fan she shi	1
+差点	cha dian	1
+架高	jia gao	1
+方位觉	fang wei jue	1
+摆成	bai cheng	1
+布盖	bu gai	1
+手术钳	shou shu qian	1
+布会	bu hui	1
+揭掉	jie diao	1
+抬到	tai dao	1
+最先	zui xian	1
+这两天	zhe liang tian	1
+半里	ban li	1
+腰部会	yao bu hui	1
+软垫	ruan dian	1
+摇起	yao qi	1
+镇痛剂	zhen tong ji	1
+输液管	shu ye guan	1
+丙帕	bing pa	1
+前药	qian yao	1
+完液	wan ye	1
+输补液	shu bu ye	1
+醋酸钠	cu suan na	1
+这几天	zhe ji tian	1
+两天	liang tian	1
+护工费	hu gong fei	1
+赵博带	zhao bo dai	1
+结清	jie qing	1
+叠片	die pian	1
+牵拉感	qian la gan	1
+太过	tai guo	1
+普外科	pu wai ke	1
 中国人民解放军第	zhong guo ren min jie fang jun di	1
 事故率	shi gu lv	1
 跨妹	kua mei	1
@@ -6666,6 +6707,8 @@ sort: by_weight
 打滚	da gun	1
 棉质	mian zhi	1
 切务	qie wu	1
+大三阳	da san yang	1
+小三阳	xiao san yang	1
 空出	kong chu	1
 预缴	yu jiao	1
 床号	chuang hao	1
@@ -6773,66 +6816,6 @@ sort: by_weight
 上海东方公证处	shang hai dong fang gong zheng chu	1
 脱除	tuo chu	1
 张线	zhang xian	1
-赵博处	zhao bo chu	1
-你妈	ni ma	1
-外衣裤	wai yi ku	1
-插线板	cha xian ban	1
-难用	nan yong	1
-海绵垫	hai mian dian	1
-打出	da chu	1
-号服	hao fu	1
-抽好	chou hao	1
-几管	ji guan	1
-采集管	cai ji guan	1
-超单	chao dan	1
-超室	chao shi	1
-约好	yue hao	1
-椎管	chui guan	1
-下半身	xia ban shen	1
-皮刀	pi dao	1
-刮体	gua ti	1
-备皮刀	bei pi dao	1
-小段	xiao duan	1
-便后	bian hou	1
-氧气管	yang qi guan	1
-挡道	dang dao	1
-桑塔露琪娅	sang ta lu qi ya	1
-软针	ruan zhen	1
-鼓掉	gu diao	1
-侧躺	ce tang	1
-忍住	ren zhu	1
-反射式	fan she shi	1
-差点	cha dian	1
-架高	jia gao	1
-方位觉	fang wei jue	1
-摆成	bai cheng	1
-布盖	bu gai	1
-手术钳	shou shu qian	1
-布会	bu hui	1
-揭掉	jie diao	1
-抬到	tai dao	1
-最先	zui xian	1
-这两天	zhe liang tian	1
-半里	ban li	1
-腰部会	yao bu hui	1
-软垫	ruan dian	1
-摇起	yao qi	1
-镇痛剂	zhen tong ji	1
-输液管	shu ye guan	1
-丙帕	bing pa	1
-前药	qian yao	1
-完液	wan ye	1
-输补液	shu bu ye	1
-醋酸钠	cu suan na	1
-这几天	zhe ji tian	1
-两天	liang tian	1
-护工费	hu gong fei	1
-赵博带	zhao bo dai	1
-结清	jie qing	1
-叠片	die pian	1
-牵拉感	qian la gan	1
-太过	tai guo	1
-普外科	pu wai ke	1
 七千	qi qian	1
 康瑞保	kang rui bao	1
 舒痕	shu hen	1
@@ -6859,7 +6842,6 @@ sort: by_weight
 妇三	fu san	1
 姜莉萍	jiang li ping	1
 石瑾	shi jin	1
-插排^1	cha pai ^1	1
 发箍	fa gu	1
 百里臣	bai li chen	1
 睡好	shui hao	1
@@ -7312,7 +7294,6 @@ sort: by_weight
 咨詢	zi xun	1
 復雜	fu za	1
 藥理	yao li	1
-代謝^1	dai xie ^1	1
 誘導	you dao	1
 潛力	qian li	1
 不變	bu bian	1
@@ -7383,7 +7364,6 @@ sort: by_weight
 藥商	yao shang	1
 商標	shang biao	1
 誤用	wu yong	1
-天^	tian ^	1
 發布	fa bu	1
 切藥器	qie yao qi	1
 切為	qie wei	1
@@ -7391,7 +7371,6 @@ sort: by_weight
 糖皮質素	tang pi zhi su	1
 氫偶素	qing ou su	1
 轉化酶	zhuan hua mei	1
-死亡^1	si wang ^1	1
 匯入	hui ru	1
 亞甲基	ya jia ji	1
 環丙孕酮片	huan bing yun tong pian	1
@@ -8618,7 +8597,6 @@ sort: by_weight
 编者人	bian zhe ren	1
 生科院	sheng ke yuan	1
 老潘	lao pan	1
-爱+色	ai + se	1
 就业率	jiu ye lv	1
 宫羽	gong yu	1
 醽噬	ling shi	1
@@ -8698,7 +8676,6 @@ sort: by_weight
 偏轻	pian qing	1
 测身	ce shen	1
 充电宝	chong dian bao	1
-自求多福┑	zi qiu duo fu ┑	1
 新冠	xin guan	1
 拖地	tuo di	1
 堵住	du zhu	1
@@ -8709,7 +8686,6 @@ sort: by_weight
 海淀区学院南路	hai dian qu xue yuan nan lu	1
 扣完	kou wan	1
 组织者	zu zhi zhe	1
-财经类	cai jing lei	1
 认同度	ren tong du	1
 邮科院	you ke yuan	1
 人行	ren xing	1
@@ -8729,35 +8705,6 @@ sort: by_weight
 六角亭	liu jiao ting	1
 官方性	guan fang xing	1
 校园性	xiao yuan xing	1
-宿放	su fang	1
-百分之二十	bai fen zhi er shi	1
-升到	sheng dao	1
-百分之四十	bai fen zhi si shi	1
-强势	qiang shi	1
-综招	zong zhao	1
-一本线	yi ben xian	1
-几十分	ji shi fen	1
-龙岗区	long gang qu	1
-龙城	long cheng	1
-龙红格	long hong ge	1
-龙翔大道	long xiang da dao	1
-大运	da yun	1
-寸土寸金	cun tu cun jin	1
-两节	liang jie	1
-思政课	si zheng ke	1
-找工	zhao gong	1
-陆本	lu ben	1
-低情商	di qing shang	1
-高情商	gao qing shang	1
-招生办	zhao sheng ban	1
-筛人	shai ren	1
-变少	bian shao	1
-昆杜	kun du	1
-中港	zhong gang	1
-港本	gang ben	1
-陆本化	lu ben hua	1
-强组	qiang zu	1
-报考港	bao kao gang	1
 管理部	guan li bu	1
 来华	lai hua	1
 创新性	chuang xin xing	1
@@ -8785,7 +8732,6 @@ sort: by_weight
 宝钧	bao jun	1
 跑单	pao dan	1
 留门	liu men	1
-简介^	jian jie ^	1
 中管	zhong guan	1
 同档次	tong dang ci	1
 分校区	fen xiao qu	1
@@ -8906,7 +8852,6 @@ sort: by_weight
 淡定	dan ding	1
 洗漱池	xi shu chi	1
 广西师范大学	guang xi shi fan da xue	1
-半斤八>	ban jin ba >	1
 省中医生殖医	sheng zhong yi sheng zhi yi	1
 科贾	ke jia	1
 艳滨	yan bin	1
@@ -9033,7 +8978,6 @@ sort: by_weight
 秋林	qiu lin	1
 东四道街	dong si dao jie	1
 征仪	zheng yi	1
-西站	xi zhan	1
 解封	jie feng	1
 逛逛	guang guang	1
 中立派	zhong li pai	1
@@ -9484,8 +9428,6 @@ sort: by_weight
 出租屋	chu zu wu	1
 生院	sheng yuan	1
 花阳	hua yang	1
-独卫|九	du wei | jiu	1
-湖✓	hu ✓	1
 浮桥站	fu qiao zhan	1
 新街口	xin jie kou	1
 建筑界	jian zhu jie	1
@@ -9764,18 +9706,6 @@ sort: by_weight
 管理层	guan li ceng	1
 外卖柜	wai mai gui	1
 丢件	diu jian	1
-双清路	shuang qing lu	1
-中关村	zhong guan cun	1
-鼓起	gu qi	1
-普博生	pu bo sheng	1
-双清	shuang qing	1
-肾功	shen gong	1
-北医六院	bei yi liu yuan	1
-电子化	dian zi hua	1
-为先	wei xian	1
-开放性	kai fang xing	1
-安安静静	an an jing jing	1
-丙类	bing lei	1
 蛋挞	dan ta	1
 气波波	qi bo bo	1
 地标	di biao	1
@@ -10148,6 +10078,74 @@ sort: by_weight
 力学院	li xue yuan	1
 机械性	ji xie xing	1
 传统工科	chuan tong gong ke	1
+宿放	su fang	1
+百分之二十	bai fen zhi er shi	1
+升到	sheng dao	1
+百分之四十	bai fen zhi si shi	1
+强势	qiang shi	1
+综招	zong zhao	1
+一本线	yi ben xian	1
+几十分	ji shi fen	1
+龙城	long cheng	1
+龙红格	long hong ge	1
+龙翔大道	long xiang da dao	1
+大运	da yun	1
+寸土寸金	cun tu cun jin	1
+非正式性	fei zheng shi xing	1
+功能区	gong neng qu	1
+供本	gong ben	1
+宿生	su sheng	1
+两节	liang jie	1
+找工	zhao gong	1
+陆本	lu ben	1
+低情商	di qing shang	1
+高情商	gao qing shang	1
+招生办	zhao sheng ban	1
+筛人	shai ren	1
+变少	bian shao	1
+昆杜	kun du	1
+中港	zhong gang	1
+港本	gang ben	1
+陆本化	lu ben hua	1
+强组	qiang zu	1
+报考港	bao kao gang	1
+女性主义	nv xing zhu yi	1
+双清路	shuang qing lu	1
+中关村	zhong guan cun	1
+鼓起	gu qi	1
+普博生	pu bo sheng	1
+双清	shuang qing	1
+肾功	shen gong	1
+北医六院	bei yi liu yuan	1
+往回	wang hui	1
+龙观	long guan	1
+补开	bu kai	1
+电子化	dian zi hua	1
+为先	wei xian	1
+开放性	kai fang xing	1
+安安静静	an an jing jing	1
+丙类	bing lei	1
+特需号	te xu hao	1
+西安市碑林区	xi an shi bei lin qu	1
+咸宁西路	xian ning xi lu	1
+康桥	kang qiao	1
+雁塔区	yan ta qu	1
+雁塔西路	yan ta xi lu	1
+金学院	jin xue yuan	1
+小寨	xiao zhai	1
+创新港	chuang xin gang	1
+西咸	xi xian	1
+沣西	feng xi	1
+港站	gang zhan	1
+陆上	lu shang	1
+体适	ti shi	1
+仲英	zhong ying	1
+何处	he chu	1
+学生区	xue sheng qu	1
+大澡堂	da zao tang	1
+团委	tuan wei	1
+怔人	zheng ren	1
+钱学森	qian xue sen	1
 去掉	qu diao	1
 备注栏	bei zhu lan	1
 高德	gao de	1
@@ -10223,7 +10221,6 @@ sort: by_weight
 康力龙	kang li long	1
 支持者	zhi chi zhe	1
 同质性睾酮	tong zhi xing gao tong	1
-睾酮受体^2	gao tong shou ti ^2	1
 两眼一抹黑	liang yan yi mo hei	1
 十万八千	shi wan ba qian	1
 设计者	she ji zhe	1
@@ -10274,7 +10271,6 @@ sort: by_weight
 夹取	jia qu	1
 臀肌	tun ji	1
 官能团	guan neng tuan	1
-睾酮|睾酮分子	gao tong | gao tong fen zi	1
 丙酸	bing suan	1
 癸酸	gui suan	1
 异己酸	yi ji suan	1
@@ -10290,7 +10286,6 @@ sort: by_weight
 油酸	you suan	1
 律师团	lv shi tuan	1
 电子书	dian zi shu	1
-性生活史^life	xing sheng huo shi ^life	1
 红丝带	hong si dai	1
 检出率	jian chu lv	1
 阳性率	yang xing lv	1
@@ -10341,62 +10336,16 @@ sort: by_weight
 线程	xian cheng	1
 福布斯	fu bu si	1
 职场	zhi chang	1
-洗面奶^1	xi mian nai ^1	1
 紧绷	jin beng	1
 发干	fa gan	1
 个人化	ge ren hua	1
 乔佛里之类	qiao fu li zhi lei	1
 小瓶	xiao ping	1
 信中	xin zhong	1
-全⾯	quan ⾯	1
-酷⼉	ku ⼉	1
 有理有据	you li you ju	1
-服⽤	fu ⽤	1
 不安会	bu an hui	1
-柜⼀	gui ⼀	1
-⼀般来说	⼀ ban lai shuo	1
-母⼀	mu ⼀	1
-⼈物	⼈ wu	1
-⼀旦	⼀ dan	1
-⾝份证	⾝ fen zheng	1
-资⾦	zi ⾦	1
-⼿段	⼿ duan	1
-介⼊	jie ⼊	1
-采⽤	cai ⽤	1
-语⾳	yu ⾳	1
-⽂件	⽂ jian	1
-照⽚	zhao ⽚	1
-⽹络	⽹ luo	1
-⽂字	⽂ zi	1
-效⽤	xiao ⽤	1
-重⼤	zhong ⼤	1
-节⽇	jie ⽇	1
-外⼈	wai ⼈	1
 写信	xie xin	1
-⼀句	⼀ ju	1
-⾔⾏	⾔⾏	1
-第⼀	di ⼀	1
-⼿术	⼿ shu	1
-轻⽣	qing ⽣	1
-战⽃	zhan ⽃	1
-⼈⽣	⼈⽣	1
-⽴刻	⽴ ke	1
-⽓愤	⽓ fen	1
 反过来去	fan guo lai qu	1
-⼀家⼈	⼀ jia ⼈	1
-引⽤	yin ⽤	1
-中正⾯	zhong zheng ⾯	1
-⼀些	⼀ xie	1
-⽆助	⽆ zhu	1
-跨⼉	kua ⼉	1
-亲⼈	qin ⼈	1
-关⼼	guan ⼼	1
-长⼤	zhang ⼤	1
-放⼼	fang ⼼	1
-⽬标	⽬ biao	1
-⾝体	⾝ ti	1
-⼤起	⼤ qi	1
-⼤落	⼤ luo	1
 胸垫	xiong dian	1
 扯下	che xia	1
 锁骨处	suo gu chu	1
@@ -10485,7 +10434,6 @@ sort: by_weight
 供氢	gong qing	1
 阴共	yin gong	1
 皮排	pi pai	1
-后部	hou bu	1
 改普	gai pu	1
 供乳量	gong ru liang	1
 血运障	xue yun zhang	1
@@ -10575,7 +10523,6 @@ sort: by_weight
 瓣气	ban qi	1
 髂腹股沟区	qia fu gu gou qu	1
 阴荃	yin quan	1
-通+	tong +	1
 蒂皮管	di pi guan	1
 移转	yi zhuan	1
 尿道井	niao dao jing	1
@@ -11875,7 +11822,6 @@ sort: by_weight
 敏感期	min gan qi	1
 青少年期	qing shao nian qi	1
 程式化	cheng shi hua	1
-互联网+	hu lian wang +	1
 医管	yi guan	1
 委医政医管局	wei yi zheng yi guan ju	1
 医管局	yi guan ju	1
